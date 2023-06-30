@@ -1,4 +1,4 @@
-### Hi there I'm Harkirat👋
+### Hey there, I'm Harkirat👋
 
 Hello! I am a Computer Science student at the University of Guelph. I have always been fascinated by the world of technology and its endless possibilities, which led me to the field of software development with a particular interest in AI and Machine Learning.
 
@@ -9,10 +9,15 @@ Apart from my academic pursuits, I am very active within the community and enjoy
 I am excited about the opportunities that lie ahead and am always open to connecting with like-minded individuals in the tech community.
 
 
-### Programming Experience
+### Programming Experience🧠💻
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,js,html,css,PHP,wasm,linux,)](https://skillicons.dev)
- 
+
+### Stats📈
+
+https://github-stats.com/nuxt/framework
+
+
 
 
 <!--
