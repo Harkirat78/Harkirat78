@@ -15,7 +15,7 @@ I am excited about the opportunities that lie ahead and am always open to connec
 
 ### Stats📈
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harkirat78)](https://github.com/Harkirat78/github-readme-stats)
 
 
 
