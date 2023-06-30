@@ -9,6 +9,12 @@ Apart from my academic pursuits, I am very active within the community and enjoy
 I am excited about the opportunities that lie ahead and am always open to connecting with like-minded individuals in the tech community.
 
 
+### Programming Experience
+
+[![My Skills](https://skillicons.dev/icons?i=c,c++,java,python,js,html,css,wasm,linux,)](https://skillicons.dev)
+ 
+
+
 <!--
 **Harkirat78/Harkirat78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
