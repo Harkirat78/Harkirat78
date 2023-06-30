@@ -15,7 +15,7 @@ I am excited about the opportunities that lie ahead and am always open to connec
 
 ### Stats📈
 
-https://github-stats.com/nuxt/framework
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
