@@ -13,9 +13,6 @@ I am excited about the opportunities that lie ahead and am always open to connec
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,js,html,css,PHP,wasm,linux,)](https://skillicons.dev)
 
-### Stats📈
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harkirat78)](https://github.com/Harkirat78/github-readme-stats)
 
 
 
