@@ -1,6 +1,6 @@
 ### Hey there, I'm Harkirat👋
 
-Hello! I am a Computer Science student at the University of Guelph. I have always been fascinated by the world of technology and its endless possibilities, which led me to the field of software development with a particular interest in AI and Machine Learning.
+Hello! I am a Computer Science CO-OP student at the University of Guelph. I have always been fascinated by the world of technology and its endless possibilities, which led me to the field of software development with a particular interest in software development and testing.
 
 As a student, I have developed strong leadership, decision-making, and teaching skills through various academic and extracurricular activities. I believe that these skills, combined with my technical knowledge, will allow me to excel in the tech industry and make a positive impact
 
