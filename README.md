@@ -11,7 +11,7 @@ I am excited about the opportunities that lie ahead and am always open to connec
 
 ### Programming Experience🧠💻
 
-[![My Skills](https://skillicons.dev/icons?i=c,c+,java,python,js,html,css,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,,java,python,js,html,css,lua)](https://skillicons.dev)
 
 
 
