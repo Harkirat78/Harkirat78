@@ -13,7 +13,7 @@ I'm always open to connecting with like-minded individuals in the tech community
 
 ### Programming Experience🧠💻
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,js,html,css,react,wasm,lua,linux,spring,django,mysql,next,typescript,node,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,js,html,css,react,wasm,lua,linux,spring,django,mysql,next,typescript,node.js,figma)](https://skillicons.dev)
 
 
 
