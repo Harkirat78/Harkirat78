@@ -1,17 +1,19 @@
 ### Hey there, I'm Harkirat👋
 
-Hello! I am a Computer Science CO-OP student at the University of Guelph and I have always been fascinated by the world of technology and its endless possibilities, which led me to the field of software development with a particular interest in fullstack development and machine learning.
+- I'm a Computer Science CO-OP student at the University of Guelph. I have always been fascinated by the world of technology and its endless possibilities, which led me to the field of software development with a particular interest in full-stack development and machine learning.
 
-As a student, I have developed strong leadership, decision-making, analytical and teaching skills through various academic and extracurricular activities. I believe that these skills, combined with my technical knowledge, will allow me to excel in the tech industry and make a positive impact
+- As a student, I have developed strong leadership, decision-making, analytical and teaching skills through various academic and extracurricular activities. I believe that these skills, combined with my technical knowledge, will allow me to excel in the tech industry and make a positive impact
 
-Apart from my academic pursuits, I am very active within the community and enjoy collaborating with new people to learn new things. I am always eager to take on new challenges and expand my skillset, and my passion for technology and dedication to personal growth will drive my success as a software developer.
+- Currently, I'm expanding my knowledge in modern full-stack technologies for open-source platforms to solve real-world problems and understand machine learning and predictive modelling
 
-I am excited about the opportunities that lie ahead and am always open to connecting with like-minded individuals in the tech community. To connect with me you can check my LinkedIn: https://www.linkedin.com/in/hsoomal/ or email me at soomalh4@gmail.com
+- Apart from my academic pursuits, I am very active within the community and enjoy collaborating with new people to learn new things. I am always eager to take on new challenges and expand my skill set. My passion for technology and dedication to personal growth will drive my success as a software developer.
+
+I'm always open to connecting with like-minded individuals in the tech community. To connect with me you can check my LinkedIn: https://www.linkedin.com/in/hsoomal/ or email me at soomalh4@gmail.com
 
 
 ### Programming Experience🧠💻
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,js,html,css,react,wasm,lua,linux,spring,django,mysql,next,typescript,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,js,html,css,react,wasm,lua,linux,spring,django,mysql,next,typescript,node,figma)](https://skillicons.dev)
 
 
 
