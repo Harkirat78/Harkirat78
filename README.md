@@ -15,7 +15,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harkirat78&show_icons=true&locale=en&layout=compact&bg_color=ffffff&title_color=000000&icon_color=FF5733&text_color=333333" alt="harkirat78" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harkirat78&show_icons=true&locale=en" alt="harkirat78" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harkirat78&" alt="harkirat78" /></p>
